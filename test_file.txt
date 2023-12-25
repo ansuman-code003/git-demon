@@ -3,3 +3,4 @@ First Code
 ||||
 Hello World!
 Take input from user and add them up.
+Submit data to DB.

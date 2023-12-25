@@ -1,2 +1,2 @@
-API KEY: sdlfkjsaoivs54gdr5g4ds6r8y7sd63g4sd6t87sd6rt87r964sd6t7rt6d87rt9ert7e9rt7d9rt7d6rt49rt7dr6t7
-PASSWORD: 54stg4sd6r87dg54er98g3dg213rt7d357srt65dr4gse8t7sdr6t4d3gset76rdt68s7rt36r87
+API_KEY = 6bdf43b6f7fb8c7df687fd3478df367facdfe7687ac
+PASSWORD = Welcome@123#%*%
